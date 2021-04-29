@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "도유진"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/토끼."
   bio              : "HIGH SCHOOL"
   location         : "대한민국 서울"
   email            : "yujindoh125@gmail.com"
